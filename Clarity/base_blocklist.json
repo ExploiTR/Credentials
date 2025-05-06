@@ -108,8 +108,7 @@
           {"url": "topcoder.com", "risk_level": "medium"},
           {"url": "hackernoon.com", "risk_level": "medium"},
           {"url": "producthunt.com", "risk_level": "high"},
-          {"url": "reddit.com/r/programmerhumor", "risk_level": "high"},
-          {"url": "reddit.com/r/programming", "risk_level": "high"},
+          {"url": "reddit.com", "risk_level": "high"},
           {"url": "hashnode.com", "risk_level": "medium"},
           {"url": "freecodecamp.org", "risk_level": "low"},
           {"url": "codepen.io", "risk_level": "medium"}
