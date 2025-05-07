@@ -1,139 +1,155 @@
 {
-    "time_wasting_websites": [
-      {
-        "category": "Social Media",
-        "sites": [
-          {"url": "facebook.com", "risk_level": "high"},
-          {"url": "twitter.com", "risk_level": "high"},
-          {"url": "instagram.com", "risk_level": "high"},
-          {"url": "reddit.com", "risk_level": "very high"},
-          {"url": "linkedin.com", "risk_level": "medium"},
-          {"url": "pinterest.com", "risk_level": "medium"},
-          {"url": "snapchat.com", "risk_level": "high"},
-          {"url": "tiktok.com", "risk_level": "very high"},
-          {"url": "tumblr.com", "risk_level": "medium"},
-          {"url": "quora.com", "risk_level": "medium"},
-          {"url": "discord.com", "risk_level": "high"},
-          {"url": "whatsapp.com", "risk_level": "medium"},
-          {"url": "telegram.org", "risk_level": "medium"},
-          {"url": "mastodon.social", "risk_level": "medium"},
-          {"url": "slack.com", "risk_level": "medium"}
-        ]
-      },
-      {
-        "category": "Video and Entertainment",
-        "sites": [
-          {"url": "youtube.com", "risk_level": "very high"},
-          {"url": "netflix.com", "risk_level": "high"},
-          {"url": "hulu.com", "risk_level": "high"},
-          {"url": "disneyplus.com", "risk_level": "high"},
-          {"url": "twitch.tv", "risk_level": "high"},
-          {"url": "vimeo.com", "risk_level": "medium"},
-          {"url": "dailymotion.com", "risk_level": "medium"},
-          {"url": "hbomax.com", "risk_level": "high"},
-          {"url": "primevideo.com", "risk_level": "high"},
-          {"url": "crunchyroll.com", "risk_level": "medium"},
-          {"url": "spotify.com", "risk_level": "medium"},
-          {"url": "soundcloud.com", "risk_level": "medium"},
-          {"url": "imgur.com", "risk_level": "high"},
-          {"url": "9gag.com", "risk_level": "high"},
-          {"url": "knowyourmeme.com", "risk_level": "medium"}
-        ]
-      },
-      {
-        "category": "News and Media",
-        "sites": [
-          {"url": "cnn.com", "risk_level": "medium"},
-          {"url": "bbc.com", "risk_level": "medium"},
-          {"url": "nytimes.com", "risk_level": "medium"},
-          {"url": "theguardian.com", "risk_level": "medium"},
-          {"url": "washingtonpost.com", "risk_level": "medium"},
-          {"url": "foxnews.com", "risk_level": "medium"},
-          {"url": "huffpost.com", "risk_level": "medium"},
-          {"url": "bloomberg.com", "risk_level": "medium"},
-          {"url": "businessinsider.com", "risk_level": "medium"},
-          {"url": "techcrunch.com", "risk_level": "high"},
-          {"url": "theverge.com", "risk_level": "high"},
-          {"url": "wired.com", "risk_level": "high"},
-          {"url": "engadget.com", "risk_level": "high"},
-          {"url": "buzzfeed.com", "risk_level": "high"},
-          {"url": "vice.com", "risk_level": "medium"}
-        ]
-      },
-      {
-        "category": "Gaming",
-        "sites": [
-          {"url": "steampowered.com", "risk_level": "high"},
-          {"url": "epicgames.com", "risk_level": "high"},
-          {"url": "battle.net", "risk_level": "high"},
-          {"url": "xbox.com", "risk_level": "medium"},
-          {"url": "playstation.com", "risk_level": "medium"},
-          {"url": "nintendo.com", "risk_level": "medium"},
-          {"url": "roblox.com", "risk_level": "high"},
-          {"url": "minecraft.net", "risk_level": "high"},
-          {"url": "leagueoflegends.com", "risk_level": "very high"},
-          {"url": "ea.com", "risk_level": "medium"},
-          {"url": "kongregate.com", "risk_level": "high"},
-          {"url": "miniclip.com", "risk_level": "medium"},
-          {"url": "coolmathgames.com", "risk_level": "medium"},
-          {"url": "chess.com", "risk_level": "medium"},
-          {"url": "pogo.com", "risk_level": "medium"}
-        ]
-      },
-      {
-        "category": "Shopping and E-commerce",
-        "sites": [
-          {"url": "amazon.com", "risk_level": "high"},
-          {"url": "ebay.com", "risk_level": "medium"},
-          {"url": "walmart.com", "risk_level": "medium"},
-          {"url": "target.com", "risk_level": "medium"},
-          {"url": "etsy.com", "risk_level": "medium"},
-          {"url": "aliexpress.com", "risk_level": "medium"},
-          {"url": "bestbuy.com", "risk_level": "medium"},
-          {"url": "newegg.com", "risk_level": "high"},
-          {"url": "wish.com", "risk_level": "medium"},
-          {"url": "shopify.com", "risk_level": "low"}
-        ]
-      },
-      {
-        "category": "Development-Related Distractions",
-        "sites": [
-          {"url": "stackoverflow.com", "risk_level": "medium"},
-          {"url": "github.com", "risk_level": "medium"},
-          {"url": "medium.com", "risk_level": "high"},
-          {"url": "dev.to", "risk_level": "high"},
-          {"url": "hackerrank.com", "risk_level": "medium"},
-          {"url": "leetcode.com", "risk_level": "medium"},
-          {"url": "codeforces.com", "risk_level": "medium"},
-          {"url": "topcoder.com", "risk_level": "medium"},
-          {"url": "hackernoon.com", "risk_level": "medium"},
-          {"url": "producthunt.com", "risk_level": "high"},
-          {"url": "reddit.com", "risk_level": "high"},
-          {"url": "hashnode.com", "risk_level": "medium"},
-          {"url": "freecodecamp.org", "risk_level": "low"},
-          {"url": "codepen.io", "risk_level": "medium"}
-        ]
-      },
-      {
-        "category": "Miscellaneous",
-        "sites": [
-          {"url": "booking.com", "risk_level": "medium"},
-          {"url": "expedia.com", "risk_level": "medium"},
-          {"url": "airbnb.com", "risk_level": "medium"},
-          {"url": "tripadvisor.com", "risk_level": "medium"},
-          {"url": "weather.com", "risk_level": "low"},
-          {"url": "zillow.com", "risk_level": "medium"},
-          {"url": "realtor.com", "risk_level": "medium"},
-          {"url": "webmd.com", "risk_level": "medium"},
-          {"url": "mayoclinic.org", "risk_level": "low"},
-          {"url": "fandom.com", "risk_level": "high"},
-          {"url": "tvtropes.org", "risk_level": "very high"},
-          {"url": "craigslist.org", "risk_level": "medium"},
-          {"url": "ebaumsworld.com", "risk_level": "medium"},
-          {"url": "boredpanda.com", "risk_level": "high"},
-          {"url": "thechive.com", "risk_level": "high"}
-        ]
-      }
-    ]
-  }
-  
+  "time_wasting_websites": [
+    {
+      "category": "Social Media",
+      "sites": [
+        {"url": "facebook.com", "risk_level": "high"},
+        {"url": "x.com", "risk_level": "high"},
+        {"url": "instagram.com", "risk_level": "high"},
+        {"url": "reddit.com", "risk_level": "very high"},
+        {"url": "linkedin.com", "risk_level": "medium"},
+        {"url": "pinterest.com", "risk_level": "medium"},
+        {"url": "snapchat.com", "risk_level": "high"},
+        {"url": "tiktok.com", "risk_level": "very high"},
+        {"url": "tumblr.com", "risk_level": "medium"},
+        {"url": "quora.com", "risk_level": "medium"},
+        {"url": "discord.com", "risk_level": "high"},
+        {"url": "whatsapp.com", "risk_level": "medium"},
+        {"url": "telegram.org", "risk_level": "medium"},
+        {"url": "mastodon.social", "risk_level": "medium"},
+        {"url": "slack.com", "risk_level": "medium"},
+        {"url": "be.real", "risk_level": "medium"},
+        {"url": "threads.net", "risk_level": "medium"}
+      ]
+    },
+    {
+      "category": "Video and Entertainment",
+      "sites": [
+        {"url": "youtube.com", "risk_level": "very high"},
+        {"url": "netflix.com", "risk_level": "high"},
+        {"url": "hulu.com", "risk_level": "high"},
+        {"url": "disneyplus.com", "risk_level": "high"},
+        {"url": "twitch.tv", "risk_level": "high"},
+        {"url": "vimeo.com", "risk_level": "medium"},
+        {"url": "dailymotion.com", "risk_level": "medium"},
+        {"url": "hbomax.com", "risk_level": "high"},
+        {"url": "primevideo.com", "risk_level": "high"},
+        {"url": "crunchyroll.com", "risk_level": "medium"},
+        {"url": "spotify.com", "risk_level": "medium"},
+        {"url": "soundcloud.com", "risk_level": "medium"},
+        {"url": "imgur.com", "risk_level": "high"},
+        {"url": "9gag.com", "risk_level": "high"},
+        {"url": "knowyourmeme.com", "risk_level": "medium"},
+        {"url": "nealfun.org", "risk_level": "medium"},
+        {"url": "theuselessweb.com", "risk_level": "medium"},
+        {"url": "incredibox.com", "risk_level": "medium"}
+      ]
+    },
+    {
+      "category": "News and Media",
+      "sites": [
+        {"url": "cnn.com", "risk_level": "medium"},
+        {"url": "bbc.com", "risk_level": "medium"},
+        {"url": "nytimes.com", "risk_level": "medium"},
+        {"url": "theguardian.com", "risk_level": "medium"},
+        {"url": "washingtonpost.com", "risk_level": "medium"},
+        {"url": "foxnews.com", "risk_level": "medium"},
+        {"url": "huffpost.com", "risk_level": "medium"},
+        {"url": "bloomberg.com", "risk_level": "medium"},
+        {"url": "businessinsider.com", "risk_level": "medium"},
+        {"url": "techcrunch.com", "risk_level": "high"},
+        {"url": "theverge.com", "risk_level": "high"},
+        {"url": "wired.com", "risk_level": "high"},
+        {"url": "engadget.com", "risk_level": "high"},
+        {"url": "buzzfeed.com", "risk_level": "high"},
+        {"url": "vice.com", "risk_level": "medium"}
+      ]
+    },
+    {
+      "category": "Gaming",
+      "sites": [
+        {"url": "steampowered.com", "risk_level": "high"},
+        {"url": "epicgames.com", "risk_level": "high"},
+        {"url": "battle.net", "risk_level": "high"},
+        {"url": "xbox.com", "risk_level": "medium"},
+        {"url": "playstation.com", "risk_level": "medium"},
+        {"url": "nintendo.com", "risk_level": "medium"},
+        {"url": "roblox.com", "risk_level": "high"},
+        {"url": "minecraft.net", "risk_level": "high"},
+        {"url": "leagueoflegends.com", "risk_level": "very high"},
+        {"url": "ea.com", "risk_level": "medium"},
+        {"url": "kongregate.com", "risk_level": "high"},
+        {"url": "miniclip.com", "risk_level": "medium"},
+        {"url": "coolmathgames.com", "risk_level": "medium"},
+        {"url": "chess.com", "risk_level": "medium"},
+        {"url": "pogo.com", "risk_level": "medium"},
+        {"url": "addictinggames.com", "risk_level": "high"}
+      ]
+    },
+    {
+      "category": "Shopping and E-commerce",
+      "sites": [
+        {"url": "amazon.com", "risk_level": "high"},
+        {"url": "ebay.com", "risk_level": "medium"},
+        {"url": "walmart.com", "risk_level": "medium"},
+        {"url": "target.com", "risk_level": "medium"},
+        {"url": "etsy.com", "risk_level": "medium"},
+        {"url": "aliexpress.com", "risk_level": "medium"},
+        {"url": "bestbuy.com", "risk_level": "medium"},
+        {"url": "newegg.com", "risk_level": "high"},
+        {"url": "wish.com", "risk_level": "medium"},
+        {"url": "shopify.com", "risk_level": "low"},
+        {"url": "thisiswhyimbroke.com", "risk_level": "high"}
+      ]
+    },
+    {
+      "category": "Development-Related Distractions",
+      "sites": [
+        {"url": "medium.com", "risk_level": "high"},
+        {"url": "dev.to", "risk_level": "high"},
+        {"url": "hackerrank.com", "risk_level": "medium"},
+        {"url": "topcoder.com", "risk_level": "medium"},
+        {"url": "hackernoon.com", "risk_level": "medium"},
+        {"url": "producthunt.com", "risk_level": "high"},
+        {"url": "reddit.com", "risk_level": "high"},
+        {"url": "hashnode.com", "risk_level": "medium"},
+        {"url": "freecodecamp.org", "risk_level": "low"},
+        {"url": "codepen.io", "risk_level": "medium"}
+      ]
+    },
+    {
+      "category": "Miscellaneous",
+      "sites": [
+        {"url": "booking.com", "risk_level": "medium"},
+        {"url": "expedia.com", "risk_level": "medium"},
+        {"url": "airbnb.com", "risk_level": "medium"},
+        {"url": "tripadvisor.com", "risk_level": "medium"},
+        {"url": "weather.com", "risk_level": "low"},
+        {"url": "zillow.com", "risk_level": "medium"},
+        {"url": "realtor.com", "risk_level": "medium"},
+        {"url": "webmd.com", "risk_level": "medium"},
+        {"url": "mayoclinic.org", "risk_level": "low"},
+        {"url": "fandom.com", "risk_level": "high"},
+        {"url": "tvtropes.org", "risk_level": "very high"},
+        {"url": "craigslist.org", "risk_level": "medium"},
+        {"url": "ebaumsworld.com", "risk_level": "medium"},
+        {"url": "boredpanda.com", "risk_level": "high"},
+        {"url": "thechive.com", "risk_level": "high"},
+        {"url": "mapcrunch.com", "risk_level": "medium"},
+        {"url": "quickdraw.withgoogle.com", "risk_level": "medium"},
+        {"url": "pointerpointer.com", "risk_level": "medium"},
+        {"url": "eyebleach.me", "risk_level": "medium"},
+        {"url": "littlealchemy2.com", "risk_level": "medium"},
+        {"url": "100000stars.com", "risk_level": "medium"},
+        {"url": "worldatlas.com", "risk_level": "medium"},
+        {"url": "fmylife.com", "risk_level": "medium"},
+        {"url": "window-swap.com", "risk_level": "medium"},
+        {"url": "radio.garden", "risk_level": "medium"},
+        {"url": "thisissand.com", "risk_level": "medium"},
+        {"url": "stellarium-web.org", "risk_level": "medium"},
+        {"url": "theuselessweb.com", "risk_level": "medium"},
+        {"url": "nealfun.org", "risk_level": "medium"}
+      ]
+    }
+  ]
+}
