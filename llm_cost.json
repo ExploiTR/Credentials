@@ -1,0 +1,24 @@
+{
+  "models": [
+    {
+      "name": "GPT-4.1 mini",
+      "model_string": "gpt-4.1-mini",
+      "context_window_tokens": 1000000,
+      "pricing_per_1M_tokens": {
+        "input": 0.4,
+        "cached_input": 0.1,
+        "output": 1.6
+      }
+    },
+    {
+      "name": "GPT-4.1 nano",
+      "model_string": "gpt-4.1-nano",
+      "context_window_tokens": 1000000,
+      "pricing_per_1M_tokens": {
+        "input": 0.1,
+        "cached_input": 0.025,
+        "output": 0.4
+      }
+    }
+  ]
+}
